@@ -1,0 +1,92 @@
+/* .class1{ 
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    transform: translate(200px 200px);
+} */
+/* .class1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    transform: rotate(60deg);
+} */
+/* .class1{height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+transform:scale(2,2) ;
+} */
+/* .class1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transform: skew(4/
+
+    /* transition: width 2s,height 2s,transform 4s,backgroud-color red;
+}
+
+.class:hover{
+    width: 500px;
+    height: 400px;
+    transform: rotate(450000deg);
+    /* background-color: blueviolet; */
+/
+
+        /* transform: rotate(30deg);
+    }
+    40%{
+        background-color: blueviolet;
+        left: 400px;
+        top: 0px;
+        transform: rotate(100deg);
+    }
+    60%{
+        background-color: brown;
+        left: 400px;
+        top: 400px;
+        transform: rotate(200deg); */
+    /* }
+    80%{
+        background-color:yellow ;
+        left: 0px;
+        top: 400px;
+        transform: rotate(300deg);
+    }
+    100%{
+        background-color:yellowgreen ;
+        left: 0px;
+        top: 0px; */
+    /* } */
+/* }
+.class{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation-name:demo ;
+    animation-duration: 5s;
+    animation-direction: alternate-reverse;
+    animation-iteration-count: infinite;
+} */
+
+@media screen and ( max-width:200px){s
+    body{background-color: yellowgreen;
+ }
+}
+
+@media screen and ( min-width:700px){
+    body{background-color: rgb(9, 236, 73);
+ }
+}
+    
+
+@media screen and ( min-width:900px){
+    body{background-color: rgb(106, 10, 225);
+ }
+}
+@media screen and ( min-width:1000px){
+    body{background-color: rgb(218, 9, 141);
+ }
+}
+
+ 
+    
